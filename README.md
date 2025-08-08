@@ -24,7 +24,8 @@ A modern, responsive notes taking application built with React, TypeScript, and 
 *User registration form with proper validation and error handling*
 
 ### Dashboard - Empty State
-![Dashboard Empty](./screenshots/dashboard-empty.png)
+![Dashboard Empty](./screenshots/dashboard-empty.png , <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 45 42 AM" src="https://github.com/user-attachments/assets/63bd2bba-4c4f-4f53-ac1f-630698a61c01" />
+)
 *Welcome screen when user has no notes yet*
 
 ### Dashboard - With Notes
