@@ -14,12 +14,12 @@ A modern, responsive notes taking application built with React, TypeScript, and 
 ## 📱 Application Screenshots
 
 ### Sign-In Page
-![Sign-In Page]( <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 44 42 AM" src="https://github.com/user-attachments/assets/49f6e5ba-6aab-4f4a-86d5-2bbcae07d1ca" />
+![Sign-In Page](./screenshots/signin-page.png <img , width="1280" height="712" alt="Screenshot 2025-08-08 at 10 44 42 AM" src="https://github.com/user-attachments/assets/49f6e5ba-6aab-4f4a-86d5-2bbcae07d1ca" />
 )
 *Clean and intuitive sign-in interface with demo account credentials*
 
 ### Sign-Up Page  
-![Sign-Up Page]( <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 45 07 AM" src="https://github.com/user-attachments/assets/dcaec316-5b73-42a5-8866-9f7b31574c99" />
+![Sign-Up Page](./screenshots/signup-page.png , <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 45 07 AM" src="https://github.com/user-attachments/assets/dcaec316-5b73-42a5-8866-9f7b31574c99" />
 )
 *User registration form with proper validation and error handling*
 
@@ -29,11 +29,13 @@ A modern, responsive notes taking application built with React, TypeScript, and 
 *Welcome screen when user has no notes yet*
 
 ### Dashboard - With Notes
-![Dashboard With Notes](./screenshots/dashboard-with-notes.png)
+![Dashboard With Notes](./screenshots/dashboard-with-notes.png , <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 46 33 AM" src="https://github.com/user-attachments/assets/aba19534-e989-42b7-82ce-61fa6900caa8" />
+)
 *Notes grid layout showing user's saved notes*
 
 ### Create/Edit Note Modal
-![Note Modal](./screenshots/note-modal.png)
+![Note Modal](./screenshots/note-modal.png , <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 46 43 AM" src="https://github.com/user-attachments/assets/316ae524-9374-4e55-b3e9-bd3c2dee5303" />
+)
 *Modal interface for creating and editing notes*
 
 ## 🛠️ Technology Stack
