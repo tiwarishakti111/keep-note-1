@@ -14,7 +14,8 @@ A modern, responsive notes taking application built with React, TypeScript, and 
 ## 📱 Application Screenshots
 
 ### Sign-In Page
-![Sign-In Page](./screenshots/signin-page.png)
+![Sign-In Page]( <img width="1280" height="712" alt="Screenshot 2025-08-08 at 10 44 42 AM" src="https://github.com/user-attachments/assets/49f6e5ba-6aab-4f4a-86d5-2bbcae07d1ca" />
+)
 *Clean and intuitive sign-in interface with demo account credentials*
 
 ### Sign-Up Page  
